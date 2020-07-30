@@ -1,9 +1,9 @@
 {
-  "name": "sbot",
+  "name": "SBot",
   "version": "0.0.0",
   "private": true,
-  "author": "Samuel Sharp <samuelsharp4@gmail.com>",
-  "description": "The SBot. Built on Hubot. Simple!",
+  "author": "SISBEST <samuelsharp4@gmail.com>",
+  "description": "The SBot!",
   "dependencies": {
     "hubot": "^3.3.2",
     "hubot-diagnostics": "^1.0.0",
@@ -16,7 +16,6 @@
     "hubot-redis-brain": "^1.0.0",
     "hubot-rules": "^1.0.0",
     "hubot-scripts": "^2.17.2",
-    "hubot-shell": "^1.0.2",
     "hubot-shipit": "^0.2.1"
   },
   "engines": {
